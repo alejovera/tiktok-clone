@@ -19,7 +19,7 @@
     height: 35px;
     filter: invert(1);
     position: absolute;
-    bottom: 110px;
+    bottom: 40px;
     right: 85px;
 }
 .videoFooter__text > h3 {
@@ -30,7 +30,7 @@
 }
 .videoFooter__icon{
     position: absolute;
-    bottom: 115px;
+    bottom: 45px;
 }
 .videoFooter__ticker > .ticker {
     height: fit-content;
@@ -39,7 +39,6 @@
 }
 .videoFooter__ticker h1 {
     padding-top: 7px; 
-    padding-bottom: 2em;
 }
 @keyframes spinTheRecord {
     from {
